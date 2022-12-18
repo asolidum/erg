@@ -36,3 +36,7 @@ latitude, longitude, OpenCage, FourSquare, Yelp, MapBox, OSM
 If you would like these results to be appened to the end of your input file then set this flag to true. Typically this will be used when you obtain a 3rd party POI file and want to compare their data against the reverse geocoders
 
 _`--sleep`_ : Almost all reverse geocoders are rate limited. `erg` can run very quickly but you will likely run into rate limits set by the providers. This value should be set to the strictest API rate limit
+
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V5F5X7E)
